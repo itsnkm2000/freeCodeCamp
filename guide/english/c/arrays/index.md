@@ -256,3 +256,5 @@ int main()
 -> 6
 ```
 Here the output is 6 because the array is initialized with single quotes so there is no extra `'\0'` at the end.
+
+THANK YOU
